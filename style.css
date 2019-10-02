@@ -1,0 +1,15 @@
+.breed{
+    border-radius:15px;
+    width:15%;
+}
+label{
+    border-radius:15px;
+}
+textarea:focus{
+    border:solid;
+    border-color:green;
+}
+textarea{
+    border:solid;
+    border-color:red;
+}
